@@ -1,0 +1,7 @@
+{
+  "name": "StudyShell",
+  "private": true,
+  "dependencies": {
+    "semantic-ui": "^2.2.14"
+  }
+}
